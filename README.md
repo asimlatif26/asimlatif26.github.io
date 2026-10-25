@@ -2,7 +2,7 @@
 
 Personal portfolio of Muhammad Asim Latif, AI & Computer Vision Engineer (edge AI, video intelligence, medical imaging).
 
-**Live site:** https://m-asim-latif.github.io
+**Live site:** https://asimlatif26.github.io
 
 ## Contents
 - `index.html` — the whole site (styles, scripts and profile photo built in)
